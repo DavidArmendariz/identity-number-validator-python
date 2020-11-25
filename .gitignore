@@ -1,0 +1,5 @@
+.vscode
+.tool-versions
+dist
+build
+identity_number_validator.egg-info
